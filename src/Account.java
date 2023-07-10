@@ -36,7 +36,7 @@ public class Account {
 
     public void depositAmount(long amount) {
         balance += amount;
-        System.out.println("Your Account has been credited with INR " + amount.);
+        System.out.println("Your Account has been credited with INR " + amount);
         System.out.println("Updated Balance is INR " + balance);
     }
 
