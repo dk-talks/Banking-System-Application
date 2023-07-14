@@ -10,7 +10,7 @@ Make withdrawals: Users can withdraw money from their account.
 
 # Prerequisites
 Java Development Kit (JDK) installed on your machine
-Command-line interface (CLI) or terminal
+Command-line interface (CLI) or terminal 
 
 # Getting Started
 
